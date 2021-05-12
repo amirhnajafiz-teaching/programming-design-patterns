@@ -24,3 +24,15 @@ Also when you are working with a lot of classes and objects in your application.
 
 ### What does this pattern do ?
 <hr />
+In this pattern, we hide the details of creating new instances. By creating a builder class called <b>Factory</b>, we 
+generate our objects, just by calling a method and a type which will give us the object type that we want.<br />
+In this pattern we don't have a problem in creating the types and objects. We create an interface and use that
+to store our objects. Now we don't need to worry about making mistakes in creating objects.
+
+Ex:
+```java
+    Factory factory = new Factory();
+    Vehicle car1 = factory.createVehicle("race car");
+    Vehicle car2 = factory.createVehicle("sport car");
+    Vehicle truck1 = factory.createVehicle("truck");
+```
