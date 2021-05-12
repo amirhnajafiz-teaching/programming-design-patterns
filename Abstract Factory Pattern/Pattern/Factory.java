@@ -1,3 +1,3 @@
 public abstract class Factory {
-	public Media getProduct();
+	public abstract Media getProduct(String type);
 }

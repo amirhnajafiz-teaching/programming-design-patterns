@@ -1,7 +1,7 @@
 public class Audio extends Factory {
-	public Media getProduct(String type){
-		switch(type)
-		{
+	@Override
+	public Media getProduct(String type) {
+		switch (type) {
 			case "music":
 				return new Music();
 			case "soundtrack":
@@ -9,5 +9,5 @@ public class Audio extends Factory {
 			default:
 				return null;
 		}
-	};
+	}
 }

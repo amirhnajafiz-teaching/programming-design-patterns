@@ -9,5 +9,5 @@ public class Visual extends Factory {
 			default:
 				return null;
 		}
-	};
+	}
 }
