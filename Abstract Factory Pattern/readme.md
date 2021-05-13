@@ -1,7 +1,6 @@
 # Abstract Factory Pattern
 
 ## What is the pattern ?
-<hr />
 This pattern solves the problem that we used to have in <b><i>Factory Pattern</i></b>.
 Same idea and same problem in here.
 
