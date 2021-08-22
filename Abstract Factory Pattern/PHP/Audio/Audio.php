@@ -1,6 +1,6 @@
 <?php 
 
-require_once "../Device.php";
+require_once "Device.php";
 
 abstract class Audio extends Device
 {

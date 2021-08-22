@@ -2,7 +2,7 @@
 
 require_once "Audio.php";
 
-class MP3 extends Audio 
+class Voice extends Audio 
 {
     public function getInfo()
     {

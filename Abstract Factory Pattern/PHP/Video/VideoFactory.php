@@ -1,6 +1,6 @@
 <?php 
 
-require_once "../Factory.php";
+require_once "Factory.php";
 require_once "MP4.php";
 require_once "GIF.php";
 
