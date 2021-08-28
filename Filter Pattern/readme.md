@@ -6,4 +6,4 @@
 
  
 Take a look at the following UML diagram representing the Filter design pattern (for my example):
-<img src="https://www.learn-it-with-examples.com/development/java/java-design-patterns/pictures/12-filter-java-design-pattern/1-filter-java-design-pattern-uml-diagram.png" width="700" />
+<img src="https://www.learn-it-with-examples.com/development/java/java-design-patterns/pictures/12-filter-java-design-pattern/1-filter-java-design-pattern-uml-diagram.png" width="500" />
