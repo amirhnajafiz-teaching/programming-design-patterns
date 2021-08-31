@@ -1,7 +1,8 @@
 # Decorator Pattern
 
-The Decorator Pattern uses composition instead of inheritance to extend the functionality of an object at runtime.
-
+### What is the problem ?
+Same problem of having classes that are similar in the base features.<br />
+The Decorator Pattern uses composition instead of inheritance to extend the functionality of an object at runtime.<br />
 The Decorator Pattern is also known as Wrapper.
 
 ## Advantage of Decorator Pattern:
